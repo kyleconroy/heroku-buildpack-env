@@ -6,3 +6,5 @@ set -e
 echo "-----> Outputting current environment"
 
 printenv
+
+find $LIBRARY_PATH
