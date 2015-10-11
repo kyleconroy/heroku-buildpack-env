@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# fail fast
+set -e
+
+echo "-----> Outputting current environment"
+
+printenv
